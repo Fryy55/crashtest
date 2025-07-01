@@ -1,0 +1,22 @@
+{
+	"geode": "4.6.2",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "fryy_55.crashtest",
+	"name": "Crashtest",
+	"version": "v1.0.0",
+	"developer": "Fryy_55",
+	"description": "A collection of test crashes",
+	"tags": [
+		"offline",
+		"bugfix"
+	],
+	"links": {
+		"source": "https://github.com/Fryy55/crashtest",
+		"community": "https://discord.com/invite/4vqtjfdhTk"
+	}
+}
